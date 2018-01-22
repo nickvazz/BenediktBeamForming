@@ -106,3 +106,4 @@ venv.bak/
 # wav files
 .WAV
 .wav
+.DS_Store
